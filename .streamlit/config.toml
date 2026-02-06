@@ -1,0 +1,8 @@
+[server]
+baseUrlPath = "/planning"
+headless = true
+enableXsrfProtection = true
+enableCORS = false
+
+
+
